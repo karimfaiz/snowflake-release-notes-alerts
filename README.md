@@ -1,0 +1,1 @@
+# snowflake-release-notes-alerts
